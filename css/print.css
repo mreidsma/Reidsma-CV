@@ -13,6 +13,15 @@ a {
 	font-weight: normal; 
 }
 
-#footer { 
+#footer, .lnk { 
 	display: none; 
+}
+
+abbr.value:after, address a.value:after {
+	content: "\00A0\2022\00A0"; 
+}
+
+.page-break-before {
+	display: block;
+	page-break-before: always;
 }
