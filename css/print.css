@@ -1,0 +1,18 @@
+.hidden { 
+	display: none; 
+}
+
+.hresume { 
+	border: none; 
+	background-color: #fff; 
+}
+
+a { 
+	text-decoration: none; 
+	color: #000; 
+	font-weight: normal; 
+}
+
+#footer { 
+	display: none; 
+}

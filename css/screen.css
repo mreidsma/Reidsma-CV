@@ -1,0 +1,36 @@
+.hidden-screen, .hidden { 
+	display: none; 
+}
+
+abbr { 
+	border-bottom: .09em dashed #666; 
+}
+
+.hresume { 
+	border-top: .8em solid #666; 
+	background: #fff url(http://matthew.reidsrow.com/me.png) top right no-repeat;  
+}
+
+a:link { 
+	color: #900; 
+}
+
+a:visited { 
+	color: #800517; 
+}
+
+.hresume .linkedin { 
+	position: absolute; 
+	top: 4em; 
+	left: -3em; 
+	background-color: #900; 
+	padding: .4em 5em .4em 4em; 
+	margin: 0; 
+	-webkit-transform: rotate(-45deg); 
+	-moz-transform: rotate(-45deg); 
+	color: #fff; 
+}
+
+.hresume a.linkedin { 
+	text-decoration: none; 
+}
